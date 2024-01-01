@@ -1,0 +1,16 @@
+export const categories = [
+  "All",
+  "JavaScript",
+  "TypeScript",
+  "Programming",
+  "Weight Lifting",
+  "Bowling",
+  "Hiking",
+  "React",
+  "Next.js",
+  "OOP",
+  "Frontend Web Programming",
+  "Backend Web Programming",
+  "Web Development",
+  "Coding",
+];
